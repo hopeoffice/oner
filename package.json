@@ -1,5 +1,5 @@
 {
-"name": "telegram-style-login-demo",
+"name": "telegram-login",
 "version": "1.0.0",
 "main": "server.js",
 "scripts": {
@@ -12,4 +12,5 @@
 "express": "^4.18.2",
 "sqlite3": "^5.1.6"
 }
+
 }
