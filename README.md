@@ -1,2 +1,2 @@
-# Eatify Screenshot : (https://eatifyy.netlify.app/)
+# Eatify Screenshot : (https://hopeoffice.one.app/)
 ![screen](/eatify.png)
